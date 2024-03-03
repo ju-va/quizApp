@@ -1,0 +1,22 @@
+<quiz>
+    <question>
+        <text>次のうち、日本の首都はどれですか？</text>
+        <choices>
+            <choice>東京</choice>
+            <choice>大阪</choice>
+            <choice>京都</choice>
+            <choice>名古屋</choice>
+        </choices>
+        <answer>0</answer>
+    </question>
+    <question>
+        <text>次のうち、世界で最も広い洋はどれですか？</text>
+        <choices>
+            <choice>太平洋</choice>
+            <choice>大西洋</choice>
+            <choice>インド洋</choice>
+            <choice>北極海</choice>
+        </choices>
+        <answer>3</answer>
+    </question>
+</quiz>
